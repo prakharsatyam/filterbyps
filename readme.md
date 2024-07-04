@@ -23,8 +23,8 @@ This project involves creating a data table using DataTables and Select2 librari
 Ensure you have a CSV file with appropriate headers. For example:
 
 Company,Ticker,Sector,Industry,Revenue,GP,FCF,Capex
-Company A,A,Tech,Software,1000000,500000,200000,100000
-Company B,B,Finance,Banking,2000000,1000000,300000,150000
+Company Tech,Software,
+Company Finance,Banking,
 
 ### Step 2: Upload the CSV File
 
